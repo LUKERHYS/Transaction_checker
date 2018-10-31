@@ -1,2 +1,2 @@
 # Transaction_checker
-A Python tool to check to excel files for discrepancies. 
+A Python tool to check two excel files for discrepancies. 
